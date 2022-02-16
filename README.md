@@ -13,5 +13,14 @@ Programming languages/scripts used:
   - requests
 * sql
 * javascript
+* scipy
+* tensorflow
+* 
 
-` pd.DataFrame() `
+` df = pd.DataFrame() `
+
+## Creating config file
+
+- create config.py file on the main directory
+* add the following variables
+  - gkey="your key" you can get gkey from [Google API](https://developers.google.com/maps)
