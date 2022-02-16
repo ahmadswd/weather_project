@@ -1,3 +1,4 @@
+print("welcome")
 import pandas as pd
 
 df = pd.read_csv("resources/weather.csv")
