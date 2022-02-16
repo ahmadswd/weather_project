@@ -1,3 +1,4 @@
-x=100
+x=10
+y=200
 
-import panadas
+import pandas as pd
